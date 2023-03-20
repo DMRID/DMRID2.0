@@ -7,10 +7,10 @@
 #
 
 # 1 - reserved
-1	M0VUB
+1	  XXXXXX
 
 # 2 - example
 7777	K1XXX
 
 # 3 - example
-124	M1ABC
+124	  M1ABC
