@@ -1,0 +1,16 @@
+# DMRID.txt
+#
+# The format of this file is DMR ID number followed by your callsign
+#
+# It is not necessary to follow the old DMR ID numeral convention ie 235XXXX - UK callsign just pick the number you want
+# First come first serve
+#
+
+# 1 - reserved
+1	M0VUB
+
+# 2 - example
+7777	K1XXX
+
+# 3 - example
+124	M1ABC
